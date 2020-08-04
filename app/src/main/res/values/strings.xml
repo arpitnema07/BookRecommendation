@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BooksRecommendation</string>
+    <string name="search_book">Search Book</string>
+    <string name="book_name_hint">Search Book Name</string>
+    <string name="search_logo_ic">searchLogo</string>
+    <string name="book_thumbnail">book_thumbnail</string>
+    <string name="place_holder_title">Title</string>
+    <string name="dummy_category">Author : Author</string>
+    <string name="dummy_price">Price: Unavailable</string>
+    <string name="price_preffix">Price:</string>
+    <string name="author_preffix">Author:</string>
+</resources>
